@@ -1,6 +1,6 @@
 "use sctrict";
 
-alert('Hello');
+alert('Hello world');
 
 const result = confirm('Are you here?');
 
