@@ -1,19 +1,10 @@
 "use sctrict";
 
-let num = 50;
 
-// while (num <= 55) {
-//     console.log (num);
-//     num++;
-// }
+const str = 'test';
 
-// do{
-//     console.log (num);
-//     num++;
-// }
-// while (num <= 55);
+const arr = [1,  2, 3];
 
-for (let i = 1; i < 8; i++) {
-    console.log (num);
-    num++;
-}
+str [2] = z
+
+console.log(str);
